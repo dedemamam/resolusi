@@ -1,0 +1,2 @@
+# resolusi
+file resolusi

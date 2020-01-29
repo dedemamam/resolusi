@@ -4,6 +4,7 @@ Rencana Kontent
    * ES6
    * Framework Javascript
       ^ Vue
+      > Reach
 - Struktur data dasar
 - Php Framework
   ^ Laravel
